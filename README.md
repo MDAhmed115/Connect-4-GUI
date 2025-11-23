@@ -6,7 +6,7 @@ A polished graphical Connect 4 game built in **C** using **Raylib**, featuring a
 ## Features
 
 ### Gameplay
-- Classic 7×6 Connect 4 mechanics.
+- Classic 6x7 Connect 4 mechanics.
 - Player vs Player mode.
 - Player vs CPU with **Easy**, **Medium**, and **Hard** difficulties.
 - Turn-based hover indicators.

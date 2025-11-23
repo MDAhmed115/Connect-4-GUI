@@ -71,7 +71,7 @@ Flowchart:
 
 
 ---
-Future Enhancements
+### Future Enhancements
 -Add sound effects.
 -Improve AI using Minimax with pruning.
 -Add themes / skins.
@@ -80,7 +80,7 @@ Future Enhancements
 -Keyboard Support
 
 ---
-Limitations:
+### Limitations:
 -CPU is rule-based, not predictive.
 -No Keyboard support.
 -No networking or online multiplayer.
@@ -88,7 +88,7 @@ Limitations:
 ---
 
 ## Author
-### Muhammed Ahmed Ashfaq
-### FAST-NUCES Karachi
-### Programming Fundamentals Lab - Fall 2025
+**Muhammed Ahmed Ashfaq**
+**FAST-NUCES Karachi**
+**Programming Fundamentals Lab - Fall 2025**
 

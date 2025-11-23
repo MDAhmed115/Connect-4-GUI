@@ -99,6 +99,8 @@ Example:
 
 ## Author
 **Muhammed Ahmed Ashfaq**
+
 **FAST-NUCES Karachi**
+
 **Programming Fundamentals Lab - Fall 2025**
 

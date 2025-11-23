@@ -68,7 +68,7 @@ Example:
 3 9 1210
 ```
 ### Flowchart:
-
+![Gameplay Screenshot]([https://raw.githubusercontent.com/<username>/<repo>/main/screenshot1.png](https://github.com/MDAhmed115/Connect-4-GUI/blob/main/flowchart.png))
 
 ---
 ### Future Enhancements

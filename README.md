@@ -72,23 +72,28 @@ Example:
 
 ---
 ### Future Enhancements
--Add sound effects.
--Improve AI using Minimax with pruning.
--Add themes / skins.
--Save full match history instead of only 20 scores.
--Add window-resize support.
--Keyboard Support
+- Add sound effects.
+
+- Improve AI using Minimax with pruning.
+
+- Add themes / skins.
+
+- Save full match history instead of only 20 scores.
+
+- Add window-resize support.
+
+- Keyboard Support
 
 ---
 ### Limitations:
 
--CPU is rule-based, not predictive.
+- CPU is rule-based, not predictive.
 
--No Keyboard support.
+- No Keyboard support.
 
--No networking or online multiplayer.
+- No networking or online multiplayer.
 
--Requires Raylib DLLs when running on other Windows machines.
+- Requires Raylib DLLs when running on other Windows machines.
 
 ---
 

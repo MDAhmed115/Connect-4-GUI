@@ -1,0 +1,2 @@
+- disable the anti virus or exclude the game folder before running the game
+- run the game from "dist" folder

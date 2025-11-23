@@ -67,7 +67,7 @@ Example:
 1 14 860
 3 9 1210
 ```
-Flowchart:
+### Flowchart:
 
 
 ---
@@ -81,10 +81,15 @@ Flowchart:
 
 ---
 ### Limitations:
+
 -CPU is rule-based, not predictive.
+
 -No Keyboard support.
+
 -No networking or online multiplayer.
+
 -Requires Raylib DLLs when running on other Windows machines.
+
 ---
 
 ## Author

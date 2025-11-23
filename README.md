@@ -46,7 +46,7 @@ score = base − (moves × penalty)
 ```bash
 pacman -S mingw-w64-x86_64-raylib
 ```
-### 2. Compile
+### 2. Compile (or use build.bat)
 ```
 gcc main.c game-logic.c -o connect4 -lraylib -lopengl32 -lgdi32 -lwinmm
 ```
@@ -68,7 +68,7 @@ Example:
 3 9 1210
 ```
 ### Flowchart:
-![Gameplay Screenshot]([https://raw.githubusercontent.com/<username>/<repo>/main/screenshot1.png](https://github.com/MDAhmed115/Connect-4-GUI/blob/main/flowchart.png))
+![Flowchart](https://raw.githubusercontent.com/MDAhmed115/Connect-4-GUI/main/flowchart.png)
 
 ---
 ### Future Enhancements
